@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w8brK1B0UGENgOR1N50V6V5VhHHnKfzccbfxCV/g7Jcjj9XdKc0ZLG6DUzaDpI7p2V6QSdnt3FO1aeHORk25tw==",
+  "dgSpecHash": "1Q2jFBjCcC8SKxESt/6549qJGrlyenOAaPqb21qhO3BbEt/CfWXZwctDmhZBVlnlhu/C6XRxdvABzFOvdjk63w==",
   "success": true,
-  "projectFilePath": "/home/oleg/dev/VisualC/TaskAboutGifts/TaskAboutGifts.csproj",
+  "projectFilePath": "/home/oleg/dev/VisualC/GiftsApps/TaskAboutGigts/TaskAboutGifts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,14 +1,18 @@
 For budget = 12  volume = 7 number of people = 2  RESULT ITEMS = 5
 id			price			volume			id			price			volume			 items price	 items volume			
-2			6			2			2			6			2			12,0			4,0			
+2			6			        2			2			  6			        2			    12,0			4,0			
 budget = 12;  bagVolume = 7
-4			6			3			2			6			2			12,0			5,0			
+
+4			6			        3			2			  6     			2		    	12,0			5,0			
 budget = 12;  bagVolume = 7
-4			6			3			4			6			3			12,0			6,0			
+
+4			6			        3			4		      6	        		3	    		12,0			6,0			
 budget = 12;  bagVolume = 7
-5,5			4			2			2,5			8			3			12,0			5,0			
+
+5,5			4			        2			2,5			  8	        		3		    	12,0			5,0			
 budget = 12;  bagVolume = 7
-5,5			4			2			4,5			8			4			12,0			6,0			
+
+5,5			4			        2			4,5		      8	        		4		    	12,0			6,0			
 budget = 12;  bagVolume = 7
 
 

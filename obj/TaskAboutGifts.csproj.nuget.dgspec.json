@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/oleg/dev/VisualC/TaskAboutGifts/TaskAboutGifts.csproj": {}
+    "/home/oleg/dev/VisualC/GiftsApps/TaskAboutGigts/TaskAboutGifts.csproj": {}
   },
   "projects": {
-    "/home/oleg/dev/VisualC/TaskAboutGifts/TaskAboutGifts.csproj": {
+    "/home/oleg/dev/VisualC/GiftsApps/TaskAboutGigts/TaskAboutGifts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/oleg/dev/VisualC/TaskAboutGifts/TaskAboutGifts.csproj",
+        "projectUniqueName": "/home/oleg/dev/VisualC/GiftsApps/TaskAboutGigts/TaskAboutGifts.csproj",
         "projectName": "TaskAboutGifts",
-        "projectPath": "/home/oleg/dev/VisualC/TaskAboutGifts/TaskAboutGifts.csproj",
+        "projectPath": "/home/oleg/dev/VisualC/GiftsApps/TaskAboutGigts/TaskAboutGifts.csproj",
         "packagesPath": "/home/oleg/.nuget/packages/",
-        "outputPath": "/home/oleg/dev/VisualC/TaskAboutGifts/obj/",
+        "outputPath": "/home/oleg/dev/VisualC/GiftsApps/TaskAboutGigts/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/oleg/.nuget/NuGet/NuGet.Config"
